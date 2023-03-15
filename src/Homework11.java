@@ -22,7 +22,7 @@ public class Homework11 {
 
 
     public static void printCompletionMessages() {
-        String hwStatus = " is in progress" ;
+        String hwStatus = " в работе..." ;
         System.out.println("Домашнее задание " + hw + hwStatus);
         System.out.println(" ");
     }
